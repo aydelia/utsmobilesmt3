@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Money</string>
+    <string name="eye_icon_description">eye icon\n</string>
+    <string name="logo_description">logo\n</string>
+    <string name="avatar_description">avatar user</string>
+    <string name="home_description">home</string>
+</resources>
